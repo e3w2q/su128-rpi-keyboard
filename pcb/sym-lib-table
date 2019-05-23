@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name su128-rescue)(type Legacy)(uri ${KIPRJMOD}/su128-rescue.lib)(options "")(descr ""))
+  (lib (name "#library")(type Legacy)(uri ${KIPRJMOD}/library.lib)(options "")(descr ""))
+)
